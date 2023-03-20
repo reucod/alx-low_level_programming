@@ -14,5 +14,5 @@ putchar (n);
 n++;
 }
 putchar ('\n');
-Return (0);
+Return(0);
 }
